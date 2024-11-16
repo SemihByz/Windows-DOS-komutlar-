@@ -1,5 +1,5 @@
 # En İyi 25+ Windows CMD Komutları
-## 1. Dizin gezintisi ve yönetimi Windows CMD komutları
+## 1. Dizin Gezintisi ve Yönetimi Windows CMD Komutları
 Bu temel Windows CMD komutlarıyla dizinlerde gezinin ve klasör yapılarını verimli bir şekilde yönetin.
 ### 1. cd <klasör>
 
@@ -27,3 +27,15 @@ Geçerli dizinde yeni klasör oluşturur.
 Geçerli dizinde klasör siler.
 
 ![Relative](/gorseller/4.png)
+
+### 5. tree
+Geçerli dizinde bulunan bütün klasör ağacını gösterir.
+
+![Relative](/gorseller/5.png)
+
+## 2. Ağ Yapılandırması ve Tanılama Windows CMD Komutları
+Ağ yapılandırma komutları, sorun giderme veya yeni ağ bağlantıları kurma sırasında faydalıdır. İşte ağ ile ilgili görevleri halletmenize yardımcı olacak bazı temel Windows yönetici CMD komutları.
+### 1. ipconfig
+Tüm geçerli TCP/IP ağ yapılandırma değerlerini görüntüler ve Dinamik Ana Bilgisayar Yapılandırma Protokolü (DHCP) ve Etki Alanı Adı Sistemi (DNS) ayarlarını yeniler.
+
+![Relative](/gorseller/6.png)
