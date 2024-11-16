@@ -10,3 +10,6 @@ Bu temel Windows CMD komutlarıyla dizinlerde gezinin ve klasör yapılarını v
    + cd/
 
    Geçerli dizinin köküne iner.
+
+   ![Relative](/gorseller/1.png)
+
